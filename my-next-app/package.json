@@ -1,0 +1,42 @@
+{
+  "name": "my-next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@tailwindplus/elements": "^1.0.18",
+    "axios": "^1.13.1",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "lucide-react": "^0.552.0",
+    "multer": "^2.0.2",
+    "mysql2": "^3.15.3",
+    "next": "^16.0.1",
+    "nextjs-toploader": "^3.9.17",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-toastify": "^11.0.5",
+    "remixicon": "^4.7.0",
+    "tailwind-scrollbar-hide": "^4.0.0",
+    "yup": "^1.7.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "babel-plugin-react-compiler": "1.0.0",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.1",
+    "prettier": "^3.6.2",
+    "prettier-plugin-tailwindcss": "^0.7.1",
+    "tailwindcss": "^4"
+  },
+  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
